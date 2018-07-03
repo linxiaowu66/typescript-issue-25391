@@ -1,0 +1,28 @@
+{
+  "name": "typescript-issue-25391",
+  "version": "1.0.0",
+  "description": "demo for issue 25391",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxiaowu66/typescript-issue-25391.git"
+  },
+  "keywords": [
+    "typescript",
+    "issue"
+  ],
+  "author": "linxiaowu66",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxiaowu66/typescript-issue-25391/issues"
+  },
+  "homepage": "https://github.com/linxiaowu66/typescript-issue-25391#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.12",
+    "typescript": "^2.9.2"
+  }
+}
